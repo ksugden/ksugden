@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ksugden
 - 👀 I’m interested in clean code, TDD, the power of coding
-- 🌱 I’m currently learning AWS, Git and everything Made Tech
+- 🌱 I’m currently learning Typescript
 - 💞️ I’m looking to collaborate on a project soon
 
 <!---
